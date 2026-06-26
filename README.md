@@ -1,7 +1,3 @@
-# demo
+# MrBeast YouTube Analysis
 
-
-
-
-version : python.3.1.11
 
