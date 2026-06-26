@@ -1,23 +1,14 @@
 # MrBeast YouTube Analysis
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyses MrBeast's YouTube videos using Microsoft Excel.
+This project analyses MrBeast's YouTube videos using Microsoft Excel to identify which content categories generate the highest audience engagement, views, and overall performance.
 
-## Tools Used
+The project demonstrates an end-to-end data analysis workflow, including:
 
-- Microsoft Excel
-- Pivot Tables
-- Charts
-
-## Dataset
-
-The dataset contains:
-
-- Video Title
-- Published Date
-- Likes
-- Views
-- Comments
-
-
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Pivot Table Analysis
+- Dashboard Development
+- Business Insight Generation
